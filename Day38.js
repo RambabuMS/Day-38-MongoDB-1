@@ -1,6 +1,6 @@
 // collection name = product
 
-db.products.insertMany([
+db.product.insertMany([
   {
     id: "1",
     product_name: "Intelligent Fresh Chips",
